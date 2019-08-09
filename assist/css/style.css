@@ -99,6 +99,6 @@ body {
 }
 s */
 
-[placeholder="79 \%"] {
-  text-align: center;
+.t {
+  text-align: center !important;
 }
